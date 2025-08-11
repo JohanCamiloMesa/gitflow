@@ -1,3 +1,5 @@
+#Codigo para verificar si un número es par o impar
+
 def es_par_o_impar(numero):
   """
   Verifica si un número entero es par o impar.
@@ -21,5 +23,3 @@ print(f"El número {numero} es {resultado}")
 numero = 7
 resultado = es_par_o_impar(numero)
 print(f"El número {numero} es {resultado}")
-
-Print("Hola")
