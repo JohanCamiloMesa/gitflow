@@ -1,4 +1,4 @@
-#Codigo para verificar si un número es par o impar
+#Listo para subir
 
 def es_par_o_impar(numero):
   """
