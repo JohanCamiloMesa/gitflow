@@ -1,5 +1,5 @@
 #Codigo para verificar si un número es par o impar
-#comentario dia 12 de agosto
+# Actualizado el 12 de agosto: se agregó función para verificar si un número es par o impar
 
 def es_par_o_impar(numero):
   """
